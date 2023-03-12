@@ -1,7 +1,8 @@
-## Dio-Estudos-Trilha
+# Dio-Estudos-Trilha
 
-Repositório para acompanhamento da minha trilha de estudos na DIO. Nele, pretendo demonstrar meus passos nessa jornada de aprendizado.
+Repositório para acompanhamento da minha trilha de estudos na DIO. 
+Nele, pretendo demonstrar meus passos nessa jornada de aprendizado.
 
 
-# Links Úteis
+## Links Úteis
 [Sintaxe Básico Markdown](https://www.markdownguide.org/basic-syntax/)
